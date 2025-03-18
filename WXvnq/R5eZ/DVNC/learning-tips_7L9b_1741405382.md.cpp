@@ -11,7 +11,6 @@ void L1LossLayer<Dtype>::Reshape(
   LossLayer<Dtype>::Reshape(bottom, top);
   CHECK_EQ(bottom[0]->count(1), bottom[1]->count(1))
       << "Inputs must have the same dimension.";
-  diff_.ReshapeLike(*bottom[0]);
 }
 
 template <typename Dtype>
