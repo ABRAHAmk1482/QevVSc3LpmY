@@ -5,5 +5,4 @@ rvm:
 
 before_script:
 
-script:
   - awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl
