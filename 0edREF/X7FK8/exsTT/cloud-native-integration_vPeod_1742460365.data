@@ -151,7 +151,6 @@ if [ -d "$MAVEN_HOME" ]; then
   verbose "found existing MAVEN_HOME at $MAVEN_HOME"
   exec_maven "$@"
 fi
-
 case "${distributionUrl-}" in
 *?-bin.zip | *?maven-mvnd-?*-?*.zip) ;;
 *) die "distributionUrl is not valid, must match *-bin.zip or maven-mvnd-*.zip, but found '${distributionUrl-}'" ;;
