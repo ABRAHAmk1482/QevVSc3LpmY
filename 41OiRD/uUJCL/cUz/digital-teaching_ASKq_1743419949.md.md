@@ -76,7 +76,6 @@ of actions.
 interaction with the people involved, including unsolicited interaction with
 includes avoiding interactions in community spaces as well as external channels
 permanent ban.
-
 ### 3. Temporary Ban
 
 **Community Impact**: A serious violation of community standards, including
