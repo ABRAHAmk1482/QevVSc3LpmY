@@ -95,7 +95,6 @@ trim() {
   #   Trims trailing and leading whitespace, carriage returns, tabs, and linefeeds.
   #   exotic environments such as mingw bash on Windows.
   printf "%s" "${1}" | tr -d '[:space:]'
-}
 
 # parse distributionUrl and optional distributionSha256Sum, requires .mvn/wrapper/maven-wrapper.properties
 while IFS="=" read -r key value; do
