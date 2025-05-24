@@ -68,7 +68,6 @@ unprofessional or unwelcome in the community.
 **Consequence**: A private, written warning from community leaders, providing
 clarity around the nature of the violation and an explanation of why the
 ### 2. Warning
-
 **Community Impact**: A violation through a single incident or series
 of actions.
 
