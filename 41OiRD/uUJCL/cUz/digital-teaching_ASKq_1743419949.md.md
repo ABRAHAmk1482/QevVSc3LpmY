@@ -87,7 +87,6 @@ with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 ### 4. Permanent Ban
 individual, or aggression toward or disparagement of classes of individuals.
-
 **Consequence**: A permanent ban from any sort of public interaction within
 
 ## Attribution
