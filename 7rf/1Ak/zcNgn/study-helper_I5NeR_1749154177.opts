@@ -1,3 +1,0 @@
---bail
---require ts-node/register
-challenges/*.test.ts
