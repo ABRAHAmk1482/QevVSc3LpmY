@@ -1,8 +1,0 @@
-language: ruby
-
-rvm:
-  - 2.2
-
-before_script:
-
-  - awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl
